@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="yzf-maven-ssm-alipay:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c13fe9de-0a7a-4c30-b215-61b3b7871001" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/likeAlipay" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mFGYsdVDVNX8B3GFWssTserXoZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\likeAlipay\yzf-maven-ssm-alipay-master\src\main\webapp\WEB-INF\jsp" />
+      <recent name="E:\likeAlipay\yzf-maven-ssm-alipay-master\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.41">
+    <configuration name="plist.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yzf-maven-ssm-alipay-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yzf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yzf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yzf.test.plist" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plist.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yzf-maven-ssm-alipay-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yzf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yzf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yzf.test.plist" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/JAVA" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="yzf-maven-ssm-alipay:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_yzf-maven-ssm-alipay-master_2" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59105" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="yzf-maven-ssm-alipay-master:war" />
+          <artifact name="yzf-maven-ssm-alipay:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.plist.test1" />
+      <item itemvalue="JUnit.plist.test2" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.41" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.plist.test2" />
+        <item itemvalue="JUnit.plist.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13fe9de-0a7a-4c30-b215-61b3b7871001" name="Default Changelist" comment="" />
+      <created>1609081975523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609081975523</updated>
+      <workItem from="1609081977229" duration="32276000" />
+      <workItem from="1609572991393" duration="3781000" />
+      <workItem from="1609576855178" duration="1907000" />
+      <workItem from="1609583779259" duration="15154000" />
+      <workItem from="1609663783457" duration="1285000" />
+      <workItem from="1609749341252" duration="7763000" />
+      <workItem from="1609761658390" duration="9417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="254" key="#SQL_Dialects" timestamp="1609166648206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="179" y="254" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1609166648206" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609833772530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609833772530" />
+    <state x="490" y="50" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1609663296604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="50" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1609663296604" />
+    <state x="544" y="279" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609581807117">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="279" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1609581807117" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609759507747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609759507747" />
+    <state x="408" y="175" key="FileChooserDialogImpl" timestamp="1609576799307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609576799307" />
+    <state width="1024" height="253" key="GridCell.Tab.0.bottom" timestamp="1609833794350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609833794350" />
+    <state width="1024" height="253" key="GridCell.Tab.0.center" timestamp="1609833794350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609833794350" />
+    <state width="1024" height="253" key="GridCell.Tab.0.left" timestamp="1609833794350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609833794350" />
+    <state width="1024" height="253" key="GridCell.Tab.0.right" timestamp="1609833794350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609833794350" />
+    <state width="1024" height="253" key="GridCell.Tab.1.bottom" timestamp="1609833794259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609833794259" />
+    <state width="1024" height="253" key="GridCell.Tab.1.center" timestamp="1609833794258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609833794258" />
+    <state width="1024" height="253" key="GridCell.Tab.1.left" timestamp="1609833794258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609833794258" />
+    <state width="1024" height="253" key="GridCell.Tab.1.right" timestamp="1609833794258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609833794258" />
+    <state width="1024" height="253" key="GridCell.Tab.2.bottom" timestamp="1609833794259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609833794259" />
+    <state width="1024" height="253" key="GridCell.Tab.2.center" timestamp="1609833794259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1609833794259" />
+    <state width="1024" height="253" key="GridCell.Tab.2.left" timestamp="1609833794259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1609833794259" />
+    <state width="1024" height="253" key="GridCell.Tab.2.right" timestamp="1609833794259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1609833794259" />
+    <state width="1024" height="253" key="GridCell.Tab.3.bottom" timestamp="1609664513918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609664513918" />
+    <state width="1024" height="253" key="GridCell.Tab.3.center" timestamp="1609664513918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1609664513918" />
+    <state width="1024" height="253" key="GridCell.Tab.3.left" timestamp="1609664513918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1609664513918" />
+    <state width="1024" height="253" key="GridCell.Tab.3.right" timestamp="1609664513918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="253" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1609664513918" />
+    <state x="129" y="0" key="SettingsEditor" timestamp="1609827266721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="129" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609827266721" />
+    <state x="891" y="208" width="540" height="524" key="StructurePopup" timestamp="1609763204199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="891" y="208" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1609763204199" />
+    <state x="372" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609566337443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1609566337443" />
+    <state x="468" y="115" width="600" height="594" key="find.popup" timestamp="1609760317337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="115" width="600" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1609760317337" />
+  </component>
+</project>
